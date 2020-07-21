@@ -18,7 +18,9 @@ In 2019 I was awarded a Google Scholarship in partnership with Andela and Plural
 
 On the last week of March I ended up doing the [Android Basics Nanodegree](https://graduation.udacity.com/confirm/PKNCP76H), followed by the [Android Developer Nanodegree](https://graduation.udacity.com/confirm/HUN7KP45) in April.
 
-On my quest to combine my passion for learning and teaching I have volunteered as a mentor on the [GADS 2020's Android Track](https://help.pluralsight.com/help/gads-2020) to help more people achieve their goals of becoming Google Certified. I am an open book so feel free to reach out and connect on my social networks linked above, and talk about your experience or to simply send a **Hey there!** ✌😁.
+On my quest to combine my passion for learning and teaching I have volunteered as a mentor on the [GADS 2020's Android Track](https://help.pluralsight.com/help/gads-2020) to help more people achieve their goals of becoming Google Certified. 
+
+I am an open book so feel free and do not hesitate to reach out and connect on my social networks linked above, to talk about your experience or to simply send a **Hey there!** ✌😁.
 
 <!--
 **doilio/doilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
