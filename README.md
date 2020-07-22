@@ -3,7 +3,7 @@
 
 [![Linkedin: Doilio Matsinhe](https://img.shields.io/badge/-doiliomatsinhe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doilio-matsinhe/)](https://www.linkedin.com/in/doilio-matsinhe/)
 [![Twitter: Doilio Matsinhe](https://img.shields.io/twitter/follow/doiliomatsinhe?style=social)](https://twitter.com/doiliomatsinhe)
-[![GitHub Doilio](https://img.shields.io/github/followers/doilio?style=social)](https://github.com/doilio)
+<!-- [![GitHub Doilio](https://img.shields.io/github/followers/doilio?style=social)](https://github.com/doilio)-->
 
 ### About me! 👀
 My name is Doilio Matsinhe,
