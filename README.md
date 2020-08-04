@@ -12,7 +12,8 @@ I am an Android Developer from Maputo (A wonderful city in Mozambique).
 On my free time I like to read([Mindsets](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)💖) watch animes([One Piece](https://en.wikipedia.org/wiki/One_Piece)💖), series and movies, chat with friends and play computer games([Mortal Kombat](https://en.wikipedia.org/wiki/Mortal_Kombat)💖).
 
 ### Experience! 🔭
-I'm currently working on improving my App [Cularte-Playstore](https://play.google.com/store/apps/details?id=com.doiliomatsinhe.cularte) an app to generate more awareness for Mozambican Artists. You can check out a few artists here [Cularte-Instagram](https://www.instagram.com/culartemz/).
+I'm currently working on an App that shows a list of popular Movies and Series and their respective details. The list if fetched from TMDB.
+Also working on improving my App [Cularte-Playstore](https://play.google.com/store/apps/details?id=com.doiliomatsinhe.cularte) an app to generate more awareness for Mozambican Artists. You can check out a few artists here [Cularte-Instagram](https://www.instagram.com/culartemz/).
 
 In 2019 I was awarded a Google Scholarship in partnership with Andela and Pluralsight where I ended up becoming a mentor. Months later took the 8h exam and became an [Associate Android Developer](https://www.credential.net/4b207fa7-e080-4493-8e1f-5794a2cf6a18).
 
