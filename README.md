@@ -14,6 +14,8 @@ On my free time I like to read([Mindsets](https://www.amazon.com/Mindset-Psychol
 ### Experience! 🔭
 Check out [Lobolo](https://play.google.com/store/apps/details?id=com.lobolo.android) - An app built for a custom cultivated to this day in southern Mozambique. According to this tradition, the bride's family receives money for the loss that represents their marriage and going to another home.
 
+Check out [DC Characters](https://play.google.com/store/apps/details?id=com.dccharacters.android) - An app that shows a list of DC Characters ordered by Name, where you can view details of a certain character including appearance, power stats, biography, and affiliations.
+
 I'm currently working on an App that shows a list of popular Movies and Series and their respective details. The list if fetched from TMDB.
 Also working on improving my App [Cularte-Playstore](https://play.google.com/store/apps/details?id=com.doiliomatsinhe.cularte) an app to generate more awareness for Mozambican Artists. You can check out a few artists here [Cularte-Instagram](https://www.instagram.com/culartemz/).
 
