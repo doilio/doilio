@@ -1,5 +1,7 @@
 ## Hi there! ✌😁
+<a href="https://www.credential.net/4b207fa7-e080-4493-8e1f-5794a2cf6a18">
 <img align='right' src="https://user-images.githubusercontent.com/38020305/87989393-3cd17100-cae2-11ea-8d07-eeff7d21dd8d.png">
+</a>
 
 [![Linkedin: Doilio Matsinhe](https://img.shields.io/badge/-doiliomatsinhe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doilio-matsinhe/)](https://www.linkedin.com/in/doilio-matsinhe/)
 [![Twitter: Doilio Matsinhe](https://img.shields.io/twitter/follow/doiliomatsinhe?style=social)](https://twitter.com/doiliomatsinhe)
@@ -16,8 +18,9 @@ Check out [Lobolo](https://play.google.com/store/apps/details?id=com.lobolo.andr
 
 Check out [DC Characters](https://play.google.com/store/apps/details?id=com.dccharacters.android) - An app that shows a list of DC Characters ordered by Name, where you can view details of a certain character including appearance, power stats, biography, and affiliations.
 
-I'm currently working on an App that shows a list of popular Movies and Series and their respective details. The list if fetched from TMDB.
-Also working on improving my App [Cularte-Playstore](https://play.google.com/store/apps/details?id=com.doiliomatsinhe.cularte) an app to generate more awareness for Mozambican Artists. You can check out a few artists here [Cularte-Instagram](https://www.instagram.com/culartemz/).
+I'm currently working on an App that helps you find the best rated and most popular movies and series to watch.
+Download and test it here [Dowy](https://play.google.com/store/apps/details?id=com.dowy.android) 
+View the source code here [Repo](https://github.com/doilio/My-Movies) 
 
 In 2019 I was awarded a Google Scholarship in partnership with Andela and Pluralsight where I ended up becoming a mentor. Months later took the 8h exam and became an [Associate Android Developer](https://www.credential.net/4b207fa7-e080-4493-8e1f-5794a2cf6a18).
 
